@@ -1,0 +1,1 @@
+https://hktafk.github.io/End-to-End-Data-Pipeline-on-AWS-EMR-with-Infrastructure-as-Code-and-Power-BI/vi/1-introduction/
